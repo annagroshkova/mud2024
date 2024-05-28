@@ -12,7 +12,7 @@
 
 .body {
   background-color: white;
-  font-family: 'Kmr Waldenburg', 'Inter', Arial, sans-serif;
+  font-family: 'Kmr Waldenburg', Arial, sans-serif;
 }
 
 .page {
@@ -93,7 +93,7 @@
 }
 
 .grid {
-  padding: 70px 56px 130px;
+  padding: 74px 56px 130px;
   display: grid;
   gap: 76px;
   grid-template-columns: repeat(2, 1fr);
@@ -228,6 +228,10 @@
   height: 100%;
 }
 
+.row7col1__douplex-container_portrait {
+  width: 88%;
+}
+
 .row7col2__douplex-container_portrait {
   width: 85%;
 }
@@ -241,16 +245,23 @@
 
 .clients__heading {
   margin: 0 auto;
+  padding-bottom: 26px;
   text-transform: uppercase;
-  color: #212121;
-  font-size: 26px;
+  color: #171717;
+  font-size: 22px;
   line-height: 44px;
   font-weight: 600;
   letter-spacing: 1.1px;
 }
 
+.clients__underline {
+  border-bottom: 1px solid #171717;
+  width: 80%;
+  align-self: center;
+}
+
 .clients__colummns {
-  padding-top: 84px;
+  padding: 90px 56px 0;
   display: flex;
   justify-content: space-between;
   gap: 15px;
@@ -280,5 +291,9 @@
   list-style: none;
   color: black;
   font-size: 32px;
+  font-family: 'Kmr Waldenburg Mager';
+  font-weight: 400;
+  line-height: 130%;
+  letter-spacing: -0.02em;
   text-transform: uppercase;
 }
