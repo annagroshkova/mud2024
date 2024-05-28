@@ -1,5 +1,5 @@
 // Grid https://gist.github.com/wiegertschouten/443f7e061d1fc656b229ac4b5b0faece
-$columns: 12;
+/*$columns: 12;
 $gap: 16px;
 $breakpoints: (
   xs: 480px,
@@ -41,4 +41,4 @@ $breakpoints: (
   @media (min-width: $width) {
     @include create-selectors($breakpoint);
   }
-}
+} */
