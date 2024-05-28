@@ -3,8 +3,9 @@
   "scripts": {
     "prepare": "husky",
     "dev": "vite --open",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "@naturalcycles/dev-lib": "^13.25.8",
