@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Kmr Waldenburg';
+  src: url('/fonts/KMR-Waldenburg-Normal.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg';
+  src: url('/fonts/KMR-Waldenburg-NormalKursiv.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Halbfett';
+  src: url('/fonts/KMR-Waldenburg-Halbfett.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Fett';
+  src: url('/fonts/KMR-Waldenburg-Fett.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Fein';
+  src: url('/fonts/KMR-Waldenburg-Fein.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Feinkursiv';
+  src: url('/fonts/KMR-Waldenburg-FeinKursiv.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Mager';
+  src: url('/fonts/KMR-Waldenburg-Mager.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Magerkursiv';
+  src: url('/fonts/KMR-Waldenburg-MagerKursiv.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Buch';
+  src: url('/fonts/KMR-Waldenburg-Buch.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Kmr Waldenburg Buchkursiv';
+  src: url('/fonts/KMR-Waldenburg-BuchKursiv.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
